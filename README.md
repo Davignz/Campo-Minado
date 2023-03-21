@@ -1,6 +1,7 @@
 # Campo minado 💣
 
 ## Introdução 👾
+* Progamado por Carlos Eduardo e Davi Gonzaga - 3º Jogos Digitais
 * Jogo desenvolvido em C# e em Português estruturado
 * Tecnologias utilizadas: C# Console, VisualG;
 
