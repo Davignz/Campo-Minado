@@ -21,8 +21,8 @@ jogador.
 
 * É importante que o jogador preste atenção na dica dada pelo jogo!
 
-Bomba = “B”;
-Espaço vazio = “1”.
+* Bomba = “B”
+* Espaço vazio = “1”.
 
 ## Análise do jogo
 * O jogo foi criado com dois vetores formando uma matriz de 10 posições cada
