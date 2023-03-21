@@ -1,0 +1,8 @@
+E:\LP\CampoMinado\CampoMinado\CampoMinado\bin\Debug\CampoMinado.exe.config
+E:\LP\CampoMinado\CampoMinado\CampoMinado\bin\Debug\CampoMinado.exe
+E:\LP\CampoMinado\CampoMinado\CampoMinado\bin\Debug\CampoMinado.pdb
+E:\LP\CampoMinado\CampoMinado\CampoMinado\obj\Debug\CampoMinado.csproj.AssemblyReference.cache
+E:\LP\CampoMinado\CampoMinado\CampoMinado\obj\Debug\CampoMinado.csproj.SuggestedBindingRedirects.cache
+E:\LP\CampoMinado\CampoMinado\CampoMinado\obj\Debug\CampoMinado.csproj.CoreCompileInputs.cache
+E:\LP\CampoMinado\CampoMinado\CampoMinado\obj\Debug\CampoMinado.exe
+E:\LP\CampoMinado\CampoMinado\CampoMinado\obj\Debug\CampoMinado.pdb
