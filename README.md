@@ -1,7 +1,7 @@
 # Campo minado 💣
 
 <h1 align="center">
-   <img src="./campoC#.gif">
+   <img src="./CampoMinado/campoC#.gif">
 </h1>
 
 ## Introdução 👾
