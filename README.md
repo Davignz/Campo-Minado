@@ -1,4 +1,4 @@
-# Campo minado 💣
+# Campo Minado 💣
 
 ## Introdução 👾
 * Progamado por Carlos Eduardo e Davi Gonzaga - 3º Jogos Digitais
